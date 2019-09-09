@@ -1,0 +1,30 @@
+.login_logo_wrapper {
+    text-align: center; 
+    margin: 10px; 
+    padding: 20px;
+    display: inline-block;
+}
+.login_logo {
+    height: 100px;
+}
+.navbar-brand h3.dashboard_logo_text {
+    font-size: 14px;
+    color: aliceblue;
+    margin: 0px;
+}
+.dashboard_wrapper {
+    height: 100vh;
+}
+.alert_wrapper {
+    display: flex;
+    align-items: center;
+}
+.alert_wrapper P {
+    margin: 0;
+}
+.navigation>li.active>a, .navigation>li.active>a:focus, .navigation>li.active>a:hover {
+	    background-color: #fd4d4a;
+}
+.login-container .page-container {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url(../images/2.jpg);
+}
